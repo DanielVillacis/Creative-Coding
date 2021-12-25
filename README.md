@@ -5,6 +5,8 @@ Creation of abstract art and animations on JavaScript using Canvas-Sketch librar
 Every 'sketch-#.js' file is written in JavaScript, they can't be executed unless there's a server running.
 I mainly use node.js to run the files.
 
+There are some PNG and MP4 files representing the final output of the written code.
+
 How to run each sketch :
 
 1- Install a terminal on you windows pc (In my case, I use ConEmu or Git). 
