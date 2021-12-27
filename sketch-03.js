@@ -4,7 +4,7 @@ const random = require('canvas-sketch-util/random');
 
 
 const animate = () =>{
-  console.log('domestika');
+  console.log('test');
   requestAnimationFrame(animate);
 };
 //animate();
