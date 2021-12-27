@@ -30,6 +30,6 @@ How to run each sketch :
    
    For example : canvas-sketch sketch-02.js
    
-7. You'll se a server running http address, you can clip it on a browser and see the sketch.
+7. You'll se a server running http address, you can clip it on a browser and you'll be able to see the sketch.
 
 I'll be soon adding new ones... Have fun!
