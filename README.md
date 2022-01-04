@@ -1,11 +1,20 @@
 # Creative-Coding
-Creation of abstract art and animations on JavaScript using Canvas-Sketch library and node.js
+Creation of abstract art and animations on JavaScript using Canvas-Sketch library (from Matt DesLauriers) and node.js
 
 
-Every 'sketch-#.js' file is written in JavaScript, they can't be executed unless there's a server running.
-I mainly use node.js to run the files.
+Every 'sketch-#.js' file is written in JavaScript, they can't be executed unless there's a nodejs server running.
 
-There are some PNG and MP4 files representing the final output of the written code.
+Here are some PNG and MP4 files representing the final output of the written code.
+
+
+
+https://user-images.githubusercontent.com/91861071/148117297-75d3a6ac-ccd7-4713-999b-682e16f6dbaa.mp4
+
+
+
+https://user-images.githubusercontent.com/91861071/148116959-f6fd6d32-01a6-475f-8605-1c923277709d.mp4
+
+
 
 How to run each sketch :
 
@@ -33,3 +42,5 @@ How to run each sketch :
 7. You'll se a server running http address, you can clip it on a browser and you'll be able to see the sketch.
 
 I'll be soon adding new ones... Have fun!
+
+![0011](https://user-images.githubusercontent.com/91861071/148117376-875e4fa4-134a-4fa6-83f2-2bf1eca893c1.png)
